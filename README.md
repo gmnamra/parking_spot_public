@@ -8,7 +8,7 @@ Video files and frames extracted from stored and cached in an internal download 
 
 ### Setup 
 #### from the repository
-yolov3.weights is in the repository of this solution ( through Large File Size support). Additionally https://hiring.verkada.com/video/index.txt is downloaded if it is needed. A copy downloaded earlier is in the repository. 
+yolov3.weights is in the repository of this solution ( through Large File Size support). 
 The following python3 packages are required
 **Opencv 3
 numpy
