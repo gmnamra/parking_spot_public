@@ -2,7 +2,7 @@
 # Project: Identify cars parked in the marked spot 
 
 ## General
-Please follow the setup section carefully. The steps in the Scripts section correpond to the steps outlined in the cv-assignment. Improvements and issues are listed and discussed in each section. Video files and frames extracted from stored and cached in an internal download directory. Referencing them is exactly as specified in the assignment. 
+Please follow the setup section carefully. The steps in the Scripts section correpond to the steps outlined in the cv-assignment. Improvements and issues are listed and discussed in each section. Video files and frames extracted from stored and cached in an internal download directory. 
 
 
 
