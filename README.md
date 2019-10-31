@@ -14,11 +14,10 @@ The following python3 packages are required
 numpy
 matplotlib**
 
-#### from the zip file
-Everything is in the folder except the weights. Run the shell script **getYOLOV3.sh**. Asuuming that your python3 environment has the requirement you are ready to go. 
 **Opencv 3
 numpy
 matplotlib**
+
 ### Viewing Setup
 Camera Outside Overlooking Street:
  -  Rigidly mounted. 
